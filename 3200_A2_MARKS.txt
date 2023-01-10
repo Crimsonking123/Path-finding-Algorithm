@@ -1,0 +1,45 @@
+Computer Science 3200
+Assignment 2 - A* Pathfinding
+
+Student(s): 
+
+Code Style / Modularity / Readability                           05/05 
+
+    - Code has consistent indenting
+    - Functions used where appropriate
+    - Assignment comments removed
+    - Student comments where explanation necessary
+    
+Other Functions                                                 05/05
+
+    - startSearch properly sets up a new search
+    - getOpen and getClosed implemented properly
+    
+isLegalAction                                                   05/05    
+
+    - Properly computes legal actions for 4D and 8D
+    - Diagonal moves can't jump over tiles
+
+A* Path-Finding (Size 1)                                        40/40
+
+    - All tests pass
+    - GUI properly interacts with Algorithm
+    - Code takes less than one second per path
+    - Visual inspection shows proper behavior
+    
+A* Path-Finding (Size 2 & 3)                                    25/25
+
+    - Same as above, but for size 2 & 3
+
+Connectedness (Size 1)                                          15/15
+
+    - All tests pass
+    - Properly interacts with GUI
+    
+Connectedness (Size 2 & 3)                                      05/05
+
+    - Same as above, but for size 2 & 3
+
+    
+Total Assignment Mark                                           100/100
+    
